@@ -6,7 +6,7 @@
 
  - :wrench: Detail-oriented, excellent problem-solving and collaboration are few of my strengths.
 
-- 📫 I can be reached at https://www.linkedin.com/in/ramonmsa/ 
+- 📫 I can be reached at ramonmsa@outlook.com  
 
 
 <!---
