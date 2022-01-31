@@ -8,6 +8,8 @@
 
 - 📫 I can be reached at ramonmsa@outlook.com  
 
+- :technologist: My LinkedIn profile is https://www.linkedin.com/in/ramonmsa/
+
 
 <!---
 ramonmsa/ramonmsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
