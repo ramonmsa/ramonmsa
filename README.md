@@ -1,4 +1,3 @@
-- :dart: My mission is to help organizations in the data-driven decision's process by enabling them to take their data to its maximum availability and quality. My skills and ability to find potential in the data will allow me to help your organization to have the most successful outcomes by applying my experience and expertise in data engineering and refined data insights.
 
 - :chart_with_upwards_trend: Proven Data Engineer with a background in electronic data interchange. Expertise in SQL and Database modeling with a Certificate in Data Analytics & Visualization from the University of Toronto. Self-starter with exceptional interpersonal communication abilities that thrives in collaborative team environments leveraging Agile and TDD methodologies. Detail-oriented leader recognized for creative problem solving
 
