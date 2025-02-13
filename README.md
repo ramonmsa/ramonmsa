@@ -1,8 +1,8 @@
 
-- :chart_with_upwards_trend: I am proven Data Engineer, with a background in electronic data interchange. I have expertise in SQL and Database modeling with a Certificate in Data Analytics & Visualization from University of Toronto. I am Self-starter with exceptional interpersonal communication abilities that thrives in collaborative team environments leveraging Agile and TDD methodologies. 
+- :chart_with_upwards_trend: Results-oriented Data Engineer with ETL pipeline, data integration, SQL, and AI automation expertise. Proven ability to optimize data infrastructures and implement scalable data solutions. Certified in Data Analytics & Visualization from the University of Toronto, with a strong foundation in programming logic and algorithmic thinking, leveraging Agile and TDD methodologies. Experienced in data modeling, data governance, and cross-functional collaboration to drive strategic business insights and decision-making.
 
 
-- :bar_chart: I recently completed a project in a team of five using datasets from data.ontario.ca, AWS PostgresQL, Python with Scikit-learn, and Tableau to visualize patterns in the confirmed cases of COVID-19 by Public Health Unit services in the Greater Province of Ontario from 2020 to 2021. See [here](https://github.com/ramonmsa/COVID-19-Confirmed-Cases-in-Ontario).
+- :bar_chart: Feel free to check out some of my projects. However, I would highlight a project developed in a team of five using datasets from data.ontario.ca, AWS PostgresQL, Python with Scikit-learn, and Tableau to visualize patterns in the confirmed cases of COVID-19 by Public Health Unit services in the Greater Province of Ontario from 2020 to 2021. See [here](https://github.com/ramonmsa/COVID-19-Confirmed-Cases-in-Ontario).
 
  - :wrench: Detail-oriented, excellent problem-solving and collaboration are few of my strengths.
 
